@@ -1,0 +1,94 @@
+.Home {
+    background-image: url(fundo.jpg);
+    background-size: 900px;
+    background-repeat: no-repeat;
+    background-position-y: 130px;
+    background-position-x: 250px;
+    background-color: rgb(243, 243, 61)
+}
+
+.Home nav {
+    position: absolute;
+    width: 15px;
+    border: 5px solid blue;
+    padding: 40px;
+    margin: 20px;
+    background-color: rgb(224, 236, 164);
+    height: 25px;
+    left: 0px;
+}
+
+#linkHome{
+    position: absolute;
+    left: 30px;
+    top: 10px;
+}
+
+#linkSobre{
+    position: absolute;
+    left: 30px;
+    top: 30px;
+}
+
+#linkReceitas{
+    position: absolute;
+    left: 30px;
+    top: 50px;
+}
+
+#linkContato{
+    position: absolute;
+    left: 30px;
+    top: 70px;
+}
+
+#h1 {
+    color: black;
+    text-align: center;
+}
+
+#h2 {
+    color: rgb(65, 99, 209);
+}
+
+a {
+    color: rgb(110, 110, 251);
+}
+
+#sobre {
+    background-image: url(sobre.jpg);
+    background-size: 650px;
+    background-repeat: no-repeat;
+    background-position-y: 150px;
+    background-position-x: 400px;
+    background-color: antiquewhite;
+}
+
+#receita {
+    background-image: url(receita.jpg);
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position-y: 100px;
+    background-position-x: 450px;
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+h2 {
+    color: blue;
+}
+
+#contato {
+    background-image: url(contato.jpg);
+    background-size: cover;
+}
+
+div {
+    position: relative;
+    left: 920px;
+    bottom: 150px;
+}
